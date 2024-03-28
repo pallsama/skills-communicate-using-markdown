@@ -7,3 +7,7 @@
 ### This is an `<h3>` header
 #### This is a h4 header
 ##### This is a h5 header
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+![Alt text](image URL "optional title")
